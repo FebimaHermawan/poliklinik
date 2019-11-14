@@ -1,0 +1,12 @@
+Sistem poliklinik
+
+1. Data Kategori_obat digunakan untuk memberi jenis kategori
+2. Data Activity digunakan untuk merecord aktifitas user dari hal" yang kecil untuk mendapatkan data" valid aktifitas poliklinik tiap harinya
+3. Data Activity_obat untuk mendapatkan data tentang tambah dan kurangnya stock barang
+4. Data Obat digunakan untuk data deskripsi dari obat
+5. Data Pasien untuk mendapatkan data pasien
+6. Data Pembayaran digunakan untuk mendapatkan data nota setiap ada pembayaran
+7. Data Pendaftaran digunakan untuk mendapatkan data pendaftaran pasien
+8. Data Poli digunakan untuk menampung jenis" poli
+9. Data Resep digunakan untuk mendapatkan data resep obat
+10. Data User dibedakan menjadi 4 dengan fungsi yang berbeda" untuk tiap status
